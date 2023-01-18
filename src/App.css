@@ -1,0 +1,36 @@
+*{
+  background-color:rgb(209, 243, 243);
+}
+.App{
+width: 320px;
+margin: 100px auto;
+box-shadow: 4px 1px 18px gray;
+}
+.number{
+  width: 320px;
+  height: 60vh;
+  box-shadow: 4px 1px 18px gray;
+
+}
+#screen{
+  font-size: 40px;
+  width: 297px;
+  height: 55px;
+background-color: aliceblue;
+padding: 10px;
+text-align: right;
+border: 3px solid grey;
+border-radius: 5px;
+}
+.btn {
+  background: black;
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid rgb(5 56 56);
+  float: left;
+}
+.btn1{
+  width: 160px;
+}
